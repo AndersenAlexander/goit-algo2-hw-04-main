@@ -1,27 +1,5 @@
 # Homework on the topic "Prefix Trees"
 
-Welcome to the homework on the topic "Prefix Trees"! 🙂
-
-The homework will consist of two independent tasks.
-
-By diving into working with prefix trees through these practical tasks, you will
-discover a powerful tool for processing text data. By expanding the
-functionality of the Trie tree, you will not only learn the theory, but also
-understand how this data structure helps to solve real-world problems of text
-search and analysis.
-
-By implementing methods for working with suffixes and prefixes, you will see how
-modern autocomplete and spell check systems work. And the task of finding the
-longest common prefix will teach you how to optimize algorithms, taking into
-account both performance and memory usage.
-
-Experience with prefix trees will provide you with a solid foundation for
-learning more complex algorithms and data structures, especially if you plan to
-work with natural language processing or search engines.
-
-This is not just an educational exercise - it is your step towards understanding
-how modern text processing systems that we use every day are created.
-
 ## Task 1. Extending the functionality of the prefix tree
 
 Implement two additional methods for the Trie class:
